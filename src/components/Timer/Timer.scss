@@ -1,0 +1,22 @@
+.timer {
+  display: flex;
+  align-items: center;
+
+  &__icon {
+    width: 18px;
+    height: 20px;
+  }
+
+  &__content {
+    font-family: Gilroy, sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    color: #83F6B1;
+    height: 22px;
+    margin-top: 0;
+    margin-bottom: 0;
+    width: 90px;
+
+    margin-left: 8px;
+  }
+}
