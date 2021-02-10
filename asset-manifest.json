@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/modal_window/static/css/main.7419395d.chunk.css",
-    "main.js": "/modal_window/static/js/main.7127e9f3.chunk.js",
-    "main.js.map": "/modal_window/static/js/main.7127e9f3.chunk.js.map",
+    "main.css": "/modal_window/static/css/main.91ff2503.chunk.css",
+    "main.js": "/modal_window/static/js/main.0b76ee7d.chunk.js",
+    "main.js.map": "/modal_window/static/js/main.0b76ee7d.chunk.js.map",
     "runtime-main.js": "/modal_window/static/js/runtime-main.83275b5f.js",
     "runtime-main.js.map": "/modal_window/static/js/runtime-main.83275b5f.js.map",
     "static/js/2.7ad6bea9.chunk.js": "/modal_window/static/js/2.7ad6bea9.chunk.js",
     "static/js/2.7ad6bea9.chunk.js.map": "/modal_window/static/js/2.7ad6bea9.chunk.js.map",
     "index.html": "/modal_window/index.html",
-    "static/css/main.7419395d.chunk.css.map": "/modal_window/static/css/main.7419395d.chunk.css.map",
+    "static/css/main.91ff2503.chunk.css.map": "/modal_window/static/css/main.91ff2503.chunk.css.map",
     "static/js/2.7ad6bea9.chunk.js.LICENSE.txt": "/modal_window/static/js/2.7ad6bea9.chunk.js.LICENSE.txt",
     "static/media/index.scss": "/modal_window/static/media/Gilroy-Regular.fa652e76.ttf",
     "static/media/Tarif.scss": "/modal_window/static/media/ellipse.2f4293c1.svg"
@@ -16,7 +16,7 @@
   "entrypoints": [
     "static/js/runtime-main.83275b5f.js",
     "static/js/2.7ad6bea9.chunk.js",
-    "static/css/main.7419395d.chunk.css",
-    "static/js/main.7127e9f3.chunk.js"
+    "static/css/main.91ff2503.chunk.css",
+    "static/js/main.0b76ee7d.chunk.js"
   ]
 }
