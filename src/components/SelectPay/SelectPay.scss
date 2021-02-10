@@ -1,0 +1,36 @@
+.select-pay {
+  display: flex;
+  width: 392px;
+  height: 40px;
+  background-color: #3c4561;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 5px;
+
+  &__option {
+    font-family: Gilroy, sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    color: #fff;
+    margin: 0;
+    height: 16px;
+    left: 60px;
+  }
+
+  &__dd {
+    width: 8px;
+    height: 4px;
+    margin-right: 22px;
+  }
+
+  &__card {
+    width: 19px;
+    height: 15px;
+    margin-left: 20px;
+    margin-right: 19px;
+  }
+
+  &__wrap {
+    display: flex;
+  }
+}

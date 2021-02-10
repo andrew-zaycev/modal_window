@@ -1,0 +1,32 @@
+.modal-button {
+  height: 42px;
+  padding: 0 24px;
+
+  background: #83F6B1;
+  border-radius: 5555px;
+  font-family: Montserrat, sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  outline: none;
+  border: none;
+  cursor: pointer;
+
+  &:hover {
+    color: #3C4561;
+  }
+
+  &__shadow {
+    position: relative;
+    left: 25px;
+    top: -21px;
+
+    width: 75px;
+    height: 28px;
+
+    background: #83F6B1;
+    opacity: 0.4;
+    filter: blur(30px);
+    border-radius: 5px;
+    z-index: -1;
+  }
+}
